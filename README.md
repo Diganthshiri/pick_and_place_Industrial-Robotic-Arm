@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # pick_and_place_Industrial-Robotic-Arm
 =======
 # two_scara_collaboration
@@ -42,4 +42,4 @@ This project simulates two SCARA robots collaboratively sorting red and blue cyl
 ## Video Demo
 
 https://drive.google.com/drive/folders/1tAMU318ZdGLQdAaYkucQySdV8L-aONbm
->>>>>>> 6231c5a (update)
+
